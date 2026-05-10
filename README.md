@@ -1,22 +1,20 @@
-# CodeAlpha Internship - Python Programming
+# CodeAlpha Internship - Python Programming Tasks
 
-## Project: Hangman Game (Task 1)
+This repository contains the projects I completed during my Python Programming internship at **CodeAlpha**. These tasks focus on core Python concepts, data structures, and logic building.
 
-This repository contains a simple, text-based **Hangman Game** developed as part of my internship at **CodeAlpha**. The game challenges the player to guess a hidden word by entering letters one at a time.
+##  Projects Overview
 
-### 🛠️ Key Concepts Used:
-* **Python Fundamentals:** `random` module, `while` loops, `if-else` logic.
-* **Data Structures:** Strings and Lists.
-* **Input/Output:** Basic console interaction.
+### 1. Hangman Game (Task 1 - Compulsory)
+A classic text-based Hangman game where the player has to guess a hidden word letter by letter.
+* **Key Features:** 6 lives system, random word selection, and real-time display of guessed letters.
+* **Concepts Used:** `random` module, `while` loops, `if-else` statements, and lists.
+* **File:** `hangman.py`
 
-### 🎮 How to Play:
-1. Run the `hangman.py` file.
-2. The computer will pick a random secret word.
-3. You have **6 attempts** to guess the word correctly.
-4. For every wrong guess, you lose one attempt.
+### 2. Stock Portfolio Tracker (Task 2)
+A functional tool to manage and track stock investments.
+* **Key Features:** Allows users to add stocks/quantities, calculates total investment value based on live-style prices, and provides an option to save the summary to a `.txt` file.
+* **Concepts Used:** Dictionaries, User Input validation, Arithmetic operations, and File Handling.
+* **File:** `stock_tracker.py`
 
-### 🚀 Internship Details:
-* **Organization:** CodeAlpha
-* **Domain:** Python Programming
-* **Task Number:** 01
-*
+---
+links:
