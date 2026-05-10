@@ -18,3 +18,9 @@ A functional tool to manage and track stock investments.
 
 ---
 links:
+hangman game code:
+https://github.com/Maira-saeed/CodeAlpha_HangmanGame/blob/main/hangman.py
+hangmangame python file:
+https://github.com/Maira-saeed/CodeAlpha_HangmanGame/blob/main/hangmangame.ipynb
+Stock Portfolio Tracker
+https://github.com/Maira-saeed/CodeAlpha_HangmanGame/blob/main/stocktracker.ipynb
